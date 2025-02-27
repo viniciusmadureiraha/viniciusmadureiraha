@@ -14,7 +14,7 @@
                 <img src="https://komarev.com/ghpvc/?username=viniciusmadureiraha&color=2f719c&label=Profile+Views&style=for-the-badge" />
             </td>
             <td width="50%" align="center">
-                <img align="center" alt="Coding" width="450" src="https://i.giphy.com/TZxCihyNQR3XO.webp" />
+                <img align="center" alt="Coding" width="450" src="https://s3.gifyu.com/images/bSGeb.gif" />
             </td>
         </tr>          
     </table>
